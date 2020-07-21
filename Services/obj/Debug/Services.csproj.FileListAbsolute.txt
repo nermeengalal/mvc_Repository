@@ -1,0 +1,15 @@
+C:\Users\TheGenius\source\repos\TASK_Nermeen\Services\bin\Debug\Services.dll
+C:\Users\TheGenius\source\repos\TASK_Nermeen\Services\bin\Debug\Services.pdb
+C:\Users\TheGenius\source\repos\TASK_Nermeen\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\TheGenius\source\repos\TASK_Nermeen\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\TheGenius\source\repos\TASK_Nermeen\Services\obj\Debug\Services.dll
+C:\Users\TheGenius\source\repos\TASK_Nermeen\Services\obj\Debug\Services.pdb
+C:\Users\TheGenius\source\repos\TASK_Nermeen\Services\bin\Debug\AutoMapper.dll
+C:\Users\TheGenius\source\repos\TASK_Nermeen\Services\bin\Debug\Entity.dll
+C:\Users\TheGenius\source\repos\TASK_Nermeen\Services\bin\Debug\EntityFramework.dll
+C:\Users\TheGenius\source\repos\TASK_Nermeen\Services\bin\Debug\Entity.pdb
+C:\Users\TheGenius\source\repos\TASK_Nermeen\Services\bin\Debug\Entity.dll.config
+C:\Users\TheGenius\source\repos\TASK_Nermeen\Services\bin\Debug\AutoMapper.pdb
+C:\Users\TheGenius\source\repos\TASK_Nermeen\Services\bin\Debug\AutoMapper.xml
+C:\Users\TheGenius\source\repos\TASK_Nermeen\Services\bin\Debug\EntityFramework.xml
+C:\Users\TheGenius\source\repos\TASK_Nermeen\Services\obj\Debug\Services.csproj.CopyComplete
